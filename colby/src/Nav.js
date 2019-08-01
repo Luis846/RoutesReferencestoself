@@ -18,6 +18,9 @@ function Nav() {
         <Link to="/panda">
             <button>Pandas!</button>
         </Link>
+         <Link to="/luis">
+            <button>Luis!</button>
+        </Link>
 
 
         </div>
